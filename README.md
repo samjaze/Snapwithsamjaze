@@ -1,6 +1,6 @@
 # Netlify Next.js + Contentful Minimal Starter
 
-![Screenshot](https://assets.stackbit.com/docs/tutorial-shared-thumb.png)
+![Screenshot](samsnap.png)
 
 **⚡ View demo:** [nextjs-contentful-starter.netlify.app](https://nextjs-contentful-starter.netlify.app/)
 
